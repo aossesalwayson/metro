@@ -1,0 +1,84 @@
+.v1, .v2, .v3, .v4, .v5, .v6, .v7, .v8, .v9, .v10, .v11, .v12, .v13, .v14, .v15, .v16, .v17, .v18, .v19, .v20 {
+    width: 200px;
+    height: 40px;
+    position: absolute;
+    display: flex;
+    transform: rotate(-45deg);
+    transform-origin: 0% 50%;
+    transition: transform .3s;
+
+   
+}
+
+.estacion{
+    border-width: 8px;
+    border-color: rgb(30, 152, 138);
+    border-style: solid;
+    border-radius: 50%;
+    background-color: rgb(255, 255, 255);
+    width: 24px;
+    height: 24px;
+    transform: translate(-50%, 0);
+  }
+
+  .t1 {
+    font-size: 16px;
+    font-family: "Arial";
+    color: rgb(30, 152, 138);
+    font-weight: bold;
+    white-space: nowrap;
+    margin: 12px 0px 0px -15px;
+  }
+
+
+  .v1:hover, .v2:hover, .v3:hover, .v4:hover, .v5:hover, .v6:hover, .v7:hover, .v8:hover, .v9:hover, .v10:hover, .v11:hover, .v12:hover, .v13:hover, .v14:hover, .v15:hover, .v16:hover, .v17:hover, .v18:hover, .v19:hover, .v20:hover {
+    transform: scale(1.3) rotate(-45deg);
+  }
+  
+ .v1 {
+    left: 400px;
+    top: 400px;
+ }
+
+ .v2 {
+    left: 500px;
+    top: 400px;
+ }
+  
+ .v3 {
+    left: 600px;
+    top: 400px;
+  }
+
+  .v4 {
+    left: 700px;
+    top: 400px;
+  }
+
+  .v5 {
+    left: 800px;
+    top: 400px;
+  }
+
+  .v6 {
+    left: 900px;
+    top: 400px;
+  }
+
+  .v7 {
+    left: 1000px;
+    top: 400px;
+  }
+
+  .v8 {
+    left: 1100px;
+    top: 400px;
+  }
+
+  .v9 {
+    left: 1200px;
+    top: 400px;
+  }
+ 
+  
+  
